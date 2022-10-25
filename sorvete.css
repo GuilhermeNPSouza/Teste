@@ -2,13 +2,15 @@ body{
     margin: 0px;  
 }
 
+/*Primeira listra vermelha*/
 #d1{
     width:100%; height:170px; background-color: rgb(255, 5, 5);
     color: rgb(0, 0, 0);
     font-size: 40px; text-align: center;
     font-style: italic; border:rgb(45, 15, 46) solid 5px;
+
 }
-   
+  /*Gif de coração*/ 
 #d2{
     width:100%; height:450px; background-color:#fff ;
     background-image: url(coração.gif); background-repeat: repeat-x;
@@ -16,19 +18,22 @@ body{
     border-left:rgb(45, 15, 46) solid 5px ; border-right:rgb(45, 15, 46) solid 5px ;
 }
 
+/*Segunda lista vermelha*/
 #d3{
-    width:100%; height:170px; background-color: rgb(255, 5, 5);
+    width:100%; height:350px; background-color: rgb(255, 5, 5);
     color: rgb(0, 0, 0);
     font-size: 40px; text-align: center;
     font-style: italic; border:rgb(45, 15, 46) solid 5px;
 }
 
+/*Gif de flores*/
 #d4{
-    width:100%; height:600px; background-color:#fff ;
+    width:100%; height:800px; background-color:#fff ;
     background-image: url(flores.webp); 
     border-left:rgb(45, 15, 46) solid 5px ; border-right:rgb(45, 15, 46) solid 5px ;
 }
 
+/*Terceira listra vermelha*/
 #d5{
     width:100%; height:170px; background-color: rgb(255, 5, 5);
     color: rgb(0, 0, 0);
@@ -40,17 +45,17 @@ body{
     width:280px; height:100px; border:rgb(45, 15, 46) solid 5px;
     font-style: italic; color: rgb(0, 0, 0);
     font-size: 30px; text-align: center; cursor: pointer;
-    position: absolute;  top: 950px;
+    position: absolute;  top: 1200px;
 }
 
 #b1{
-    left: 50px;
+    left: 10%;
 }
 
 #b2{
-    left: 40%;  
+    left: 50%;  
 }
 
 #b3{
-   right: 50px;  
+   right: 90%;  
 }
