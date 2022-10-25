@@ -44,6 +44,21 @@ body{
 .botão{
     width:280px; height:100px; border:rgb(45, 15, 46) solid 5px;
     font-style: italic; color: rgb(0, 0, 0);
-    font-size: 30px; text-align: center; cursor: pointer;
-    top: 1200px;
+    font-size: 30px; text-align: center; cursor: pointer; 
+    background-color: rgb(102, 78, 133);
+    position:absolute; top: 1200px; margin: auto;
+}
+
+#b1{
+left: 0;
+}
+
+#b2{
+left: 0;
+right: 0;
+}
+
+
+#b3{
+right: 0;
 }
