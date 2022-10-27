@@ -91,6 +91,11 @@ background-image: url(gato3.gif);
     background-image: url(gato4.gif);
 }
 
+#d41{
+    color: rgb(0, 0, 0);
+    font-size: 30px; font-style: italic; 
+}
+
 /*Configuração padão dos botões*/
 .botão{
     width:280px; height:100px; border:rgb(45, 15, 46) solid 5px;
