@@ -63,6 +63,7 @@ body{
     width:25%; height: 600px; background-color: rgb(209, 145, 209);
     position: absolute; top: 2375px; 
     border-top:rgb(138, 6, 199) solid 5px; border-bottom:rgb(138, 6, 199) solid 5px ;
+    background-repeat: no-repeat; background-position: center;
 }
 
 
@@ -121,4 +122,27 @@ right: 0;
 /*Botão 3 da direita*/
 #b3{
 right: 0;
+}
+
+
+.I{
+    width: 25%; height: 250px; 
+    position: absolute; top: 1200px;
+     display: none;
+     background-repeat: no-repeat;
+}
+
+#d42{
+    left: 10px;
+    background-image: url(sim.jpg);
+}
+
+#d43{
+ right: 38%;
+ background-image: url(talvez3.png);
+}
+
+#d44{
+    right: 0;
+    background-image: url(não.jpg);
 }
